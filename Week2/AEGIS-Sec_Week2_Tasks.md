@@ -1,4 +1,4 @@
-# AEGIS-Sec — Week 2 Task Board
+# GOVERNER-OT — Week 2 Task Board
 
 **Rule:** No task depends on anyone else finishing first, except the schema step below — do that one first, together.
 **Check-in:** Post your deliverable by end of week. The deliverable *is* the update.
