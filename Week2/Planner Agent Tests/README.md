@@ -8,7 +8,7 @@ unparseable output.
 
 ## Model used
 
-DeepSeek-R1-Distill-Qwen-14B (Q4_K_M quant), served locally via Ollama.
+Qwen-14B , served locally via Ollama.
 
 ## Files
 
